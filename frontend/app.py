@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "http://localhost:8000"  # Alterar quando for para produção
+BASE_URL = "https://mini-crm-fastapi-d60a3217a6dd.herokuapp.com/"
 
 # Função para exibir leads
 def show_leads():
