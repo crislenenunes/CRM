@@ -62,6 +62,8 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 <div align="center">  
   <p>Desenvolvido com ❤️ por <a href="https://github.com/crislenenunes">Crislene Nunes</a></p>  
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">  
-  <img src="https://img.shields.io/badge/scikit--learn-1.3+-orange?logo=scikit-learn" alt="Scikit-learn">  
-  <img src="https://img.shields.io/badge/Gradio-4.28.3-green?logo=gradio" alt="Gradio">  
+  <img src="https://img.shields.io/badge/FastAPI-0.95+-yellow?logo=fastapi" alt="FastAPI">  
+  <img src="https://img.shields.io/badge/Streamlit-1.10+-green?logo=streamlit" alt="Streamlit">  
+  <img src="https://img.shields.io/badge/JSON-green?logo=json" alt="JSON">  
 </div>
+
