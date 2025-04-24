@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao@example.com",
+    "telefone": "+55 11 98765-4321",
+    "status": "Novo",
+    "origem": "Website",
+    "data_criacao": "2025-04-23T12:00:00"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "email": "maria@example.com",
+    "telefone": "+55 21 99876-5432",
+    "status": "Em Contato",
+    "origem": "Campanha",
+    "data_criacao": "2025-04-22T14:30:00"
+  }
+]
